@@ -20,4 +20,4 @@ O gráfico de linha nos permite ter uma visualização real dos dados. Ao invés
 Baseado na minha análise, a empresa precisará aumentar a equipe e o estoque entre os meses de Setembro a Novembro, pois é o período anterior ao período onde há maiores índices de vendas. Sendo necessário planejamento e organização para lidar com muitas vendas.
 
 
-![planilha](!(image.png))
+![planilha](image.png)

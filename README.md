@@ -1,6 +1,6 @@
 # 📊 Google Data Analytics Certificate
 
-Este repositório reúne os exercícios e atividades desenvolvidos durante o programa de certificação profissional **Google Data Analytics**.
+Este repositório reúne os exercícios desenvolvidos durante o programa de certificação profissional **Google Data Analytics**.
 
 O objetivo é documentar o aprendizado, praticar conceitos fundamentais de análise de dados e acompanhar a evolução ao longo do curso.
 
@@ -24,7 +24,7 @@ O objetivo é documentar o aprendizado, praticar conceitos fundamentais de anál
 
 ## 🗂️ Sobre as Atividades
 
-As atividades registradas neste repositório para cada curso concluído são compostas principalmente por **respostas a perguntas de autorreflexão**.
+Das atividades oferecidas pelo Google, optei por registrar neste repositório as respostas que envolvem momentos de autorreflexão, mas sem deixar de contextualizar a visão geral de cada atividade e o cenário da questão proposta. As demais atividades práticas foram realizadas diretamente em ferramentas como BigQuery, Planilhas Google e Tableau.
 
 Esse tipo de atividade é parte fundamental da metodologia da certificação do Google: ao longo dos módulos, os alunos são convidados a refletir sobre os conceitos aprendidos, conectar o conteúdo a situações reais e consolidar o raciocínio analítico de forma prática e pessoal.
 

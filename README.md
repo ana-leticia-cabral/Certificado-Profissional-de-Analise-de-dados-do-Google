@@ -24,7 +24,11 @@ O objetivo é documentar o aprendizado, praticar conceitos fundamentais de anál
 
 ## 🗂️ Sobre as Atividades
 
-Das atividades oferecidas pelo Google, optei por registrar neste repositório as respostas que envolvem momentos de autorreflexão, mas sem deixar de contextualizar a visão geral de cada atividade e o cenário da questão proposta. As demais atividades práticas foram realizadas diretamente em ferramentas como BigQuery, Planilhas Google e Tableau.
+Das atividades oferecidas pelo Google, optei por registrar neste repositório apenas as respostas que envolvem momentos de reflexão, mas sem deixar de contextualizar a visão geral de cada atividade e o cenário da questão proposta.
+
+As demais atividades práticas (podendo envolver criação de planilhas, consultas em SQL ou treino de visualizações) foram realizadas diretamente em ferramentas como BigQuery, Planilhas Google e Tableau. Cheguei à conclusão de que registrar todas as planilhas, consultas e demais arquivos gerados poderia tornar o repositório menos prático para meu objetivo principal, que é demonstrar os conceitos e técnicas fundamentais obtidos pelo curso.
+
+O projeto final certamente estará disponível aqui.
 
 Esse tipo de atividade é parte fundamental da metodologia da certificação do Google: ao longo dos módulos, os alunos são convidados a refletir sobre os conceitos aprendidos, conectar o conteúdo a situações reais e consolidar o raciocínio analítico de forma prática e pessoal.
 

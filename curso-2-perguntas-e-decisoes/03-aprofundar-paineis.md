@@ -10,7 +10,7 @@ Essa autorreflexão o ajudará a desenvolver insights sobre seu próprio aprendi
 
 ---
 
-## Pergunta
+## Reflexão
 
 **Como os diferentes tipos de painéis são semelhantes entre si?**
 

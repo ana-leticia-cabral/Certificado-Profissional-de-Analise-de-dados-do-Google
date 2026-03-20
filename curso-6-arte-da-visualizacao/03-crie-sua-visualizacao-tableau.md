@@ -14,7 +14,7 @@ Ao concluir esta atividade, você será capaz de criar e personalizar visualiza�
 
 ## Visualização que fiz junto com a atividade
 
-https://public.tableau.com/views/CO2PerCapitabyRegion_17739666767060/Planilha1?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link                   vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+https://public.tableau.com/views/CO2PerCapitabyRegion_17739666767060/Planilha1?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link                   
 
 ---
 

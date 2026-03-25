@@ -46,6 +46,7 @@ A conexão de várias fontes de dados permite que, por meio do cruzamento das in
 Por exemplo, nesta atividade foi orientada a criação de uma visualização de dados que mostrasse a emissão de CO₂ per capita em todos os países entre os anos de 2000 e 2011. Os dados de CO₂ contêm informações dos anos de 1960 a 2011, enquanto as outras conexões de dados abrangem o período de 2000 a 2015. Assim, a interseção (os anos que eles têm em comum) inclui apenas o intervalo de 2000 a 2011.
 
 Nesse caso, a união de várias fontes de dados me orientou sobre qual período de dados eu deveria utilizar. Além disso, eu poderia criar outras visualizações que não foram realizadas nesta atividade. Por exemplo, poderia relacionar as emissões de CO₂ com o consumo de energia por ano para estudar possíveis correlações.
+
 ***Para ilustrar essa possibilidade, criei um gráfico de dispersão no Tableau relacionando as emissões de CO₂ per capita com o uso de energia per capita por país, entre 2000 e 2011. O gráfico evidencia uma correlação positiva entre as duas variáveis: países com maior emissão de CO₂ tendem a consumir mais energia. Vale destacar que correlação não implica causalidade, sendo necessária uma análise mais aprofundada para estabelecer relações de causa e efeito.***
 
 [gráfico de dispersão](image.png)

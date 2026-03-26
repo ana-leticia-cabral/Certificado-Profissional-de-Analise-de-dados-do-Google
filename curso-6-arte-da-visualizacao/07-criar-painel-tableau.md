@@ -14,6 +14,8 @@ Ao concluir esta atividade, você será capaz de criar e usar um painel para apr
 
 https://public.tableau.com/views/CO2emitidopelasvriaspartesdoglobo/Painel1?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+---
+
 ## Reflexão
 
 **Como você organizou as planilhas no Painel para apresentar os dados de forma eficaz?**

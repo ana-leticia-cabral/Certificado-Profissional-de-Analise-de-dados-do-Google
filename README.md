@@ -15,8 +15,8 @@ O objetivo é documentar o aprendizado, praticar conceitos fundamentais de anál
 | 3 | Prepare dados para exploração | ✅ Concluído — Janeiro de 2026 |
 | 4 | Processe dados de sujos para limpos | ✅ Concluído — Janeiro de 2026 |
 | 5 | Analisar dados para responder as perguntas | ✅ Concluído — Fevereiro de 2026 |
-| 6 | Compartilhe dados por meio da arte de Visualização | 🔄 Em andamento |
-| 7 | Introdução à análise de dados usando Python | ⏳ Pendente |
+| 6 | Compartilhe dados por meio da arte de Visualização | ✅ Concluído — Março de 2026 |
+| 7 | Introdução à análise de dados usando Python | 🔄 Em andamento |
 | 8 | TCC da Análise de dados do Google: Conclua um estudo de caso | ⏳ Pendente |
 | 9 | Acelere sua busca de emprego com IA | ⏳ Pendente |
 
@@ -45,6 +45,8 @@ Esse tipo de atividade é parte fundamental da metodologia da certificação do 
  ┣ 📂 curso-3-preparar-dados
  ┣ 📂 curso-4-processar-dados
  ┣ 📂 curso-5-analisar-dados
+ ┣ 📂 curso-6-arte-da-visualizacao
+ ┣ 📂 curso-7-introducao-analise-de-dados-Python
  ┗ 📄 README.md
 ```
 

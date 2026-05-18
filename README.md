@@ -16,9 +16,9 @@ O objetivo é documentar o aprendizado, praticar conceitos fundamentais de anál
 | 4 | Processe dados de sujos para limpos | ✅ Concluído — Janeiro de 2026 |
 | 5 | Analisar dados para responder as perguntas | ✅ Concluído — Fevereiro de 2026 |
 | 6 | Compartilhe dados por meio da arte de Visualização | ✅ Concluído — Março de 2026 |
-| 7 | Introdução à análise de dados usando Python | 🔄 Em andamento |
+| 7 | Introdução à análise de dados usando Python | ✅ Concluído — Maio de 2026 |
 | 8 | TCC da Análise de dados do Google: Conclua um estudo de caso | ⏳ Pendente |
-| 9 | Acelere sua busca de emprego com IA | ⏳ Pendente |
+| 9 | Acelere sua busca de emprego com IA | ✅ Concluído — Abril de 2026 |
 
 ---
 

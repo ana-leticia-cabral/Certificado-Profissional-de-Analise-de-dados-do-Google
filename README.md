@@ -17,7 +17,7 @@ O objetivo é documentar o aprendizado, praticar conceitos fundamentais de anál
 | 5 | Analisar dados para responder as perguntas | ✅ Concluído — Fevereiro de 2026 |
 | 6 | Compartilhe dados por meio da arte de Visualização | ✅ Concluído — Março de 2026 |
 | 7 | Introdução à análise de dados usando Python | ✅ Concluído — Maio de 2026 |
-| 8 | TCC da Análise de dados do Google: Conclua um estudo de caso | ⏳ Em andamento... |
+| 8 | TCC da Análise de dados do Google: Conclua um estudo de caso | ✅ Concluído — Maio de 2026 |
 | 9 | Acelere sua busca de emprego com IA | ✅ Concluído — Abril de 2026 |
 
 ---
@@ -47,6 +47,7 @@ Esse tipo de atividade é parte fundamental da metodologia da certificação do 
  ┣ 📂 curso-5-analisar-dados
  ┣ 📂 curso-6-arte-da-visualizacao
  ┣ 📂 curso-7-introducao-analise-de-dados-Python
+ ┣ 📂 curso-8-estudo-de-caso  -> (Projeto final)
  ┗ 📄 README.md
 ```
 
@@ -57,3 +58,10 @@ Esse tipo de atividade é parte fundamental da metodologia da certificação do 
 A **Certificação Profissional de Análise de Dados do Google** é oferecida pela Google através da plataforma Coursera. Ela prepara profissionais para atuarem como analistas de dados iniciantes, abordando desde conceitos básicos até análise prática com ferramentas como SQL, Planilhas e Python.
 
 Mais informações: [Google Data Analytics Certificate — Coursera](https://www.coursera.org/professional-certificates/google-data-analytics)
+
+---
+
+## Certificado Profissional
+
+![Certificado de conclusão](certificado_conclusao.png)
+![Badge](Badge.png)

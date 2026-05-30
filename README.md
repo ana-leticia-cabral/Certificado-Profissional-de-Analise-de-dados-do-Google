@@ -63,5 +63,6 @@ Mais informações: [Google Data Analytics Certificate — Coursera](https://www
 
 ## Certificado Profissional
 
-![Certificado de conclusão](certificado_conclusao.png)
-![Badge](Badge.png)
+![Certificado de conclusão](image.png)
+
+![Badge](image-1.png)

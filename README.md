@@ -61,7 +61,11 @@ Mais informações: [Google Data Analytics Certificate — Coursera](https://www
 
 ---
 
-## Certificado Profissional
+## 🥇 Conclusão da certificação -> Maio de 2026 
+
+- [Projeto final: Estudo de Caso Bellabeat](https://www.kaggle.com/code/ninha0911/h-bitos-de-usu-rios-fitbit)
+
+- Reconhecimentos:
 
 ![Certificado de conclusão](image.png)
 
